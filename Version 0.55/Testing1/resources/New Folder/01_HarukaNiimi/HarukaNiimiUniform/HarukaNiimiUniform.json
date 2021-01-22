@@ -1,0 +1,16 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"HarukaNiimiUniform_01.moc",
+	"textures":[
+		"HarukaNiimiUniform_01.1024/texture_00.png"
+	],
+	"motions":{
+		"":[
+			{"file":"mtn/Anger.mtn"},
+			{"file":"mtn/Happiness.mtn"},
+			{"file":"mtn/Idle.mtn"},
+			{"file":"mtn/Joy.mtn"},
+			{"file":"mtn/Sadness.mtn"}
+		]
+	}
+}
